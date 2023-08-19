@@ -1,5 +1,0 @@
-{{#user}}
-Name: SuhanaEranhikkal
-Skills: HTML, CSS, Python,Sql,Java
-Email: suhananajeeb@gmail.com
-{{/user}}
